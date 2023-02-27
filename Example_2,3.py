@@ -1,0 +1,6 @@
+name=input("Hello ,What is your name?\n")
+age=input(f"Hi {name}.How old are you?\n")
+height=input("How tall are you?\n")
+print(f"So {name} you're {age}years old and {height} feet tall.\n")
+salary=input(f"How much do you make {name}\n")
+print(f"{salary} I hope that's per hour and not per year! LOL.\n")
