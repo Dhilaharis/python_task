@@ -22,9 +22,9 @@ daynumber6()
 def daynumber7():  
          print("weekday 7:saturday")
 daynumber7()
-def daynumber0():
+def daynumber8():
          print("weekday 8:saturday")
-daynumber0()
+daynumber8()
 def today():
     today=datetime.datetime.now()
     weekday_name=today.strftime("%A")
